@@ -1,3 +1,12 @@
+<div align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FA7343&textBg=false" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=24&duration=2500&pause=1000&color=FA7343&center=true&vCenter=true&width=650&lines=Welcome+to+my+Github+profile+%3A);I'm+a+Mobile+Developer;Building+mobile+apps+with+%7C+Swift+%26+SwiftUI+%7C+React+Native;Exploring+Firebase+%7C+CoreData+%7C+PostgreSQL;Passionate+about+Mobile+Development" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Mehmet Atakan İçel</h1>
 <h3 align="center">Mobile Developer | Swift | SwiftUI | React Native</h3>
 
@@ -15,6 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAtakanicel&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--- ![](https://nirzak-streak-stats.vercel.app/?user=MAtakanicel&theme=swift&hide_border=false) --->
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
