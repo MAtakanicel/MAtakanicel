@@ -1,7 +1,7 @@
 <div align="center">  
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=24&duration=2500&pause=1000&color=FA7343&center=true&vCenter=true&width=650&lines=Welcome+to+my+Github+profile+%3A);I'm+a+Mobile+Developer;WWDC26+Swift+Student+Challenge+Winner+%F0%9F%8F%86;Building+mobile+apps+with+%7C+Swift+%26+SwiftUI+%7C+React+Native;Passionate+about+Mobile+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=24&duration=2500&pause=1000&color=FA7343&center=true&vCenter=true&width=650&lines=Welcome+to+my+Github+profile+%3A);I'm+a+Mobile+Developer;WWDC26+Swift+Student+Challenge+Winner+%F0%9F%8F%86;Building+mobile+apps+with+%7C+Swift+%26+SwiftUI+%7C+React+Native" alt="Typing SVG" />
   </a>
 </div>
 
