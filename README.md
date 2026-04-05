@@ -1,7 +1,7 @@
 <div align="center">  
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=24&duration=2500&pause=1000&color=FA7343&center=true&vCenter=true&width=650&lines=Welcome+to+my+Github+profile+%3A);I'm+a+Mobile+Developer;Building+mobile+apps+with+%7C+Swift+%26+SwiftUI+%7C+React+Native;Exploring+Firebase+%7C+CoreData+%7C+PostgreSQL;Passionate+about+Mobile+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=24&duration=2500&pause=1000&color=FA7343&center=true&vCenter=true&width=650&lines=Welcome+to+my+Github+profile+%3A);I'm+a+Mobile+Developer;WWDC26+Swift+Student+Challenge+Winner+%F0%9F%8F%86;Building+mobile+apps+with+%7C+Swift+%26+SwiftUI+%7C+React+Native;Passionate+about+Mobile+Development" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,6 +10,7 @@
 <h3 align="center">Mobile Developer | Swift | SwiftUI | React Native</h3>
 
 # 💫 About Me:
+🏆 **WWDC26 Swift Student Challenge Winner** – [Insight](https://github.com/MAtakanicel/Insight) (Braille Accessibility App)<br>
 📱 Developing iOS applications with Swift, SwiftUI and React Native<br>🔧 Experienced in swiftUI, CoreData, Firebase, and REST/GraphQL API integrations <br>🌍 Exploring cross-platform development with React Native <br>🎓 Computer Engineering Student – Süleyman Demirel University<br>🎯 Goal: Becoming a **Professional  full stack iOS Developer** creating apps with high-quality user experiences  
 
 
